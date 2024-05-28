@@ -13,6 +13,29 @@
       "description": "The latest smartphone with advanced features.",
       "price": 79999.99,
       "image": "https://cdn-icons-png.flaticon.com/128/15/15874.png"
+    },
+    {
+      "id": 3,
+      "name": "Headphones",
+      "description": "High-quality headphones for the immersive audio experience.",
+      "price": 1499.99,
+      "image": "https://cdn-icons-png.flaticon.com/128/3249/3249904.png"
+      
+    },
+    {
+      "id": 4,
+      "name": "Smartwatch",
+      "description": "Stay connected with this stylish smartwatch.",
+      "price": 75999.99,
+      "image": "https://cdn-icons-png.flaticon.com/128/15406/15406206.png"
+     
+    },
+    {
+      "id": 5,
+      "name": "Tablet",
+      "description": "A portable tablet for entertainment and productivity.",
+      "price": 40499.99,
+      "image":"https://cdn-icons-png.flaticon.com/128/644/644425.png"
     }
   ]
 }
